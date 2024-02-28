@@ -1,0 +1,33 @@
+body {
+    font-family: "Arial","Meiryo";
+}
+.pink {
+     color:rgb(255, 192, 203);
+    }
+.skyblue{ 
+    color:skyblue;
+}
+
+.google-fonts {
+    font-family: "Josefin Sans",sans-serif;
+    letter-spacing: 1.5em;
+}
+.google-fonts { 
+    letter-spacing: 1.2em;
+}
+.google-fonts {
+     text-shadow: 2px 2px 4px;
+}
+.font-blue {
+    color:skyblue;
+}
+.font-pink {
+    color:rgb(255, 192, 203);
+}
+body {
+    text-align: center;
+    line-height: 1.5;
+}
+#chiled > P {
+    font-weight: bold;
+}
